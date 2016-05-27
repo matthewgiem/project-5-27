@@ -6,3 +6,13 @@ h1  {
 .panel  {
   margin-top: 20px;
 }
+
+#matt {
+  max-width: 300px;
+  float:right;
+  margin-left: 10px;
+}
+/*put inline if I don't have any examples*/
+#aboutHeader  {
+  margin-bottom: 40px;
+}
