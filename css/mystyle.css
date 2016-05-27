@@ -20,3 +20,17 @@ h1  {
 #hover  {
   background-image: linear-gradient(to bottom, white, white);
 }
+
+.hello {
+  color: #6699cc;
+}
+
+.hello:hover  {
+  text-decoration: underline;
+  color: #6699cc;
+}
+
+.glyphicon  {
+  font-size: 3em;
+  color: #6699cc;
+}
