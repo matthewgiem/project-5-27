@@ -16,3 +16,7 @@ h1  {
 #aboutHeader  {
   margin-bottom: 40px;
 }
+
+#hover  {
+  background-image: linear-gradient(to bottom, white, white);
+}
