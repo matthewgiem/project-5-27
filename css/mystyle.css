@@ -40,3 +40,9 @@ h1  {
 .jumbotron h1 {
   font-family: 'New Rocker', cursive;
 }
+.blue {
+  color:blue;
+}
+.classIndent  {
+  text-indent:15px;
+}

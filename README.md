@@ -6,7 +6,9 @@
 
 ## Description
 
-_HTML webpage_
+*_This is the beginning of my programming life and I decided to write a short page to show case what I've done so far I hope you enjoy it and contact me about possibly working for you!_*
+
+_[Live site](https://matthewgiem.github.io/project-5-27)_
 
 ## Setup/Installation Requirements
 
